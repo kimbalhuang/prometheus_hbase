@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2021-12-05T15:46:28.698Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="khNDaSEmLADuDv_ylk_6" version="15.9.1" type="github"><diagram name="Page-1" id="dd472eb7-4b8b-5cd9-a60b-b15522922e76">7VdNj5swEP01PmYFGIw5hoS0qlSpUqT2bGAIaAGzjtMk/fW1iSGwsCv2sG1VrYSE/WbMeOY9f4Dwprp8EqzJv/IUSuRY6QXhLXIc26VYvTRyvSG+ZYCDKFLjdAf2xS8woGXQU5HCceQoOS9l0YzBhNc1JHKEMSH4eeyW8XIctWEHmAD7hJVT9EeRytygtmXdDZ+hOOQmNPWMIWbJ40HwU23i1byGm6Vi3WeM6zFnKT8PIBwhvBGcy1urumyg1GXtKnYbt3vB2k9ZQC2XDAD//BRU+02ybZrT6UthW3a0MjT9ZOXJlMJMVl672uj0GuMGQsJljhEWd+7WdF52n60SEPAKpLgqF/MhB5shRjvUdM93IkjHQz7goAeZIf/Qf/peBdUwhZgvius5mGTMy9yYQmCzlTdTEFKqkGHGVT7DypCnE+8Mq2Or6bVycEhzuRtV69C+owCpzNQTEbTeoDDSSBAiSlDk6+7a7SLFohvlPKj5WN/CqaVDVIK3iXXwM/ZUumoRqU54zgsJ+4Yl2nJW61hhuaxUZba2arYiBl0WS/V6sepOyo55b0l4VSSmrSPvWFWUmrrvIFJWMwObNa6JD7OiLDe85KKdEk4Z0CzRQaTgjzCwkIRCnPVpDDX0qnqfy3KqtYGYnDkxOe8iJjIVk2bfQiFFkYfCHVIb5wIZqDerNF91fGxaWRAjiw+2X9lZXGu6lfxB9v0J+1khl9CtT8UPdheze/0n2KYza52itWLY0WudblHgLSL/wf9g/xX2/wrb2HcBu4Q6kGJsA6zsF68Jx4bVzw/ppVcHbM1fHWgrH1cfHkGA1jstKKWdtb9IUOTtl4geHmfzXyiyZDGUIRcpiM7c3trfb6eynfFOZdveRLuYzGgX+2/Xrure/yla2+CfDUe/AQ==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-05T15:58:04.745Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="7PXn5u9ZIAn3Fl5Yejth" version="15.9.1" type="github">
+  <diagram name="Page-1" id="dd472eb7-4b8b-5cd9-a60b-b15522922e76">
+    <mxGraphModel dx="1483" dy="703" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="e7wq9mSCcDppuuJi101E-3" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="230" y="80" width="600" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="45236fa5f4b8e91a-5" value="&lt;font style=&quot;font-size: 22px&quot;&gt;退款集群&lt;br&gt;2.5 PB&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="e7wq9mSCcDppuuJi101E-3" vertex="1">
+          <mxGeometry width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="45236fa5f4b8e91a-6" value="核心集群&lt;br&gt;&amp;nbsp;2.6 PB" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="e7wq9mSCcDppuuJi101E-3" vertex="1">
+          <mxGeometry x="400" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="45236fa5f4b8e91a-7" value="fit集群&lt;br&gt;10 PB" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="e7wq9mSCcDppuuJi101E-3" vertex="1">
+          <mxGeometry x="400" y="400" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="45236fa5f4b8e91a-8" value="订单集群&lt;br&gt;1.7 PB" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="e7wq9mSCcDppuuJi101E-3" vertex="1">
+          <mxGeometry y="400" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="374e34682ed331ee-1" value="&lt;span&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;荔景大集群&lt;br&gt;16.5 PB&lt;br&gt;&lt;/font&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBorderColor=none;" parent="e7wq9mSCcDppuuJi101E-3" vertex="1">
+          <mxGeometry x="120" y="115" width="360" height="370" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
