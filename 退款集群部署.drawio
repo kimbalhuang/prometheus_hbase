@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2021-12-05T12:46:22.052Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" version="15.9.1" etag="nP6by17CTN3X8PyXFabX" type="github"><diagram id="8bl0QbIEnmWVLMVjPm9x">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-06T02:32:50.446Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="m2yOHQ06nx7vhydfcO9L" version="15.9.1" type="github">
+  <diagram id="8bl0QbIEnmWVLMVjPm9x" name="Page-1">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Y6KCGHYid8nLkKNrLuSp-1" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="40" y="40" width="600" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6KCGHYid8nLkKNrLuSp-2" value="&lt;font style=&quot;font-size: 22px&quot;&gt;退款集群&lt;br&gt;2.5 PB&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Y6KCGHYid8nLkKNrLuSp-1">
+          <mxGeometry width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6KCGHYid8nLkKNrLuSp-3" value="核心集群&lt;br&gt;&amp;nbsp;4.0 PB" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Y6KCGHYid8nLkKNrLuSp-1">
+          <mxGeometry x="400" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6KCGHYid8nLkKNrLuSp-4" value="fit集群&lt;br&gt;7.0 PB" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Y6KCGHYid8nLkKNrLuSp-1">
+          <mxGeometry x="400" y="400" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6KCGHYid8nLkKNrLuSp-5" value="订单集群&lt;br&gt;3.0 PB" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="Y6KCGHYid8nLkKNrLuSp-1">
+          <mxGeometry y="400" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="Y6KCGHYid8nLkKNrLuSp-6" value="&lt;span&gt;&lt;font style=&quot;font-size: 30px&quot;&gt;荔景大集群&lt;br&gt;16.5 PB&lt;br&gt;&lt;/font&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=22;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBorderColor=none;" vertex="1" parent="Y6KCGHYid8nLkKNrLuSp-1">
+          <mxGeometry x="120" y="115" width="360" height="370" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
